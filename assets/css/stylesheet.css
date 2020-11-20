@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-article {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -86,7 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
-aside {
+.benefit-consolidated {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -101,7 +101,7 @@ aside {
     color: #ffffff;
 } */
 
-aside h3 {
+.benefit-consolidated h3 {
     margin-bottom: 10px;
     text-align: center;
 }
