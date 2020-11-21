@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* removed <div class=header> tag, replaced with <header> element, all subsequent classes following .header classes were updated to coincide with <header> element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ h1 {
 h1 .seo {
     color: #d9dcd6;
 }
-
+/* replaced <div> <ul> tags with <nav> element, changed classes to reflect styling with <nav> element */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* replaced <div> with <section> since hero class is acting as a divider between the header and main elements */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* replaced <div class=content> with main for better semantics of the website's main content, updated and consolidated classes within main element */
 main {
     width: 75%;
     display: inline-block;
@@ -90,7 +90,7 @@ main {
     margin-left: 25px;
     max-height: 200px;
 }
-
+/* replaced <div class=benefits> with <aside> element, updated and consolidated classes within aside element */ 
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +117,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* replaced <div class=footer> with <footer> element and updated and consolidated classes within footer element */
 footer {
     padding: 30px;
     clear: both;
