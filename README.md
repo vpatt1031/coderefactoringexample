@@ -6,8 +6,3 @@ This project covers the topics concerning code refactoring and accessibility. Fo
 
 You can view my deployed application here: https://vpatt1031.github.io/coderefactoringexample/
 
-## Usage
-
-```md
-![alt text](./assets/images/project_screenshot.png)
-```
