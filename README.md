@@ -9,5 +9,5 @@ You can view my deployed application here: https://vpatt1031.github.io/coderefac
 ## Usage
 
 ```md
-![alt text](assets/images/project_screenshot.png)
+![alt text](./assets/images/project_screenshot.png)
 ```
