@@ -173,7 +173,7 @@ aside {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/*.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -181,9 +181,9 @@ aside {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+}*/
 
-.social-media-marketing h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
