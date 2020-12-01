@@ -7,4 +7,4 @@ This project covers the topics concerning code refactoring and accessibility. Fo
 You can view my deployed application here: https://vpatt1031.github.io/coderefactoringexample/
 
 # Screenshot
-![alttxt](assets/images/project_screenshot.png "Project Screenshot") 
+![alttag](assets/images/project_screenshot.png "Project Screenshot") 
